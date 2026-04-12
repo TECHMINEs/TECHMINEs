@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=ffff00&height=200&section=header&text=WELCOME&fontSize=70" />
+</p>
+
 <div align="center">
 
-# Hey, I'm Pranav Jangid 👋
+# Hey, I'm Pranav Jangid 👾
 ### `TECHMINEs PJ` · B.Tech IT · MIT Manipal · Class of 2028
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-TECHMINEs.github.io-FF0000?style=for-the-badge&logoColor=white)](https://TECHMINEs.github.io)
