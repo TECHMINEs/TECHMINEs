@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=ffff00&height=200&section=header&text=WELCOME&fontSize=70" />
-</p>
-
 <div align="center">
 
 # Hey, I'm Pranav Jangid 👾
@@ -89,10 +85,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![TECHMINEs GitHub Stats](https://github-readme-stats.vercel.app/api?username=TECHMINEs&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TECHMINEs&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&text_color=ffffff)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TECHMINEs&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)
 
